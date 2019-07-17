@@ -1,0 +1,58 @@
+Steps
+
+download termux run script below 
+(do not run the last 2 script)
+
+pkg update && pkg upgrade 
+pkg install git pkg install php 
+pkg install curl 
+pkg install wget 
+termux-setup-storage 
+cd /sdcard/coins
+
+
+php bug.php 
+lanjut mas bro
+
+
+Create account at 
+http://faucethub.io/r/60953435
+
+click earn free bitcoin
+click wallet address
+link your wallet address 
+Eth or Dodge for this tutorial
+copy ur wallet address and go the faucet below
+
+
+Faucet Can use Vpn
+
+
+http://auto4.eaglezz.com/faucet.php?address=0x2e951eb3dd17ef415021bd3bfbcc3b4fe53f804c&currency=ETH&key=e050f685e67e513772c29b82cc8fda47
+http://auto1.eaglezz.com/faucet.php?address=0x2e951eb3dd17ef415021bd3bfbcc3b4fe53f804c&currency=ETH&key=e050f685e67e513772c29b82cc8fda47
+http://auto.eaglezz.com/faucet.php?address=0x2e951eb3dd17ef415021bd3bfbcc3b4fe53f804c&currency=ETH&key=e050f685e67e513772c29b82cc8fda47
+https://eaglezz.com/faucet.php?address=0x2e951eb3dd17ef415021bd3bfbcc3b4fe53f804c&currency=ETH&key=e050f685e67e513772c29b82cc8fda47
+http://auto.eaglezz.com/faucet.php?address=DDxhW1ru2xoL4kpfCTgUHuSa4hbP11gD5u&currency=DOGE&key=9b4c1388901af2176fd05833c96826ae
+http://auto1.eaglezz.com/faucet.php?address=D7x5VusdyRXDF3VtvUiWExPJNKRvD4J47z&currency=DOGE&key=79acaa59ca12909120b5caf4393da457
+http://auto4.eaglezz.com/faucet.php?address=D7x5VusdyRXDF3VtvUiWExPJNKRvD4J47z&currency=DOGE&key=79acaa59ca12909120b5caf4393da457
+https://eaglezz.com/faucet.php?address=D7x5VusdyRXDF3VtvUiWExPJNKRvD4J47z&currency=DOGE&key=79acaa59ca12909120b5caf4393da457
+https://tgainers.info/faucet.php?address=DDxhW1ru2xoL4kpfCTgUHuSa4hbP11gD5u&currency=DOGE&key=aaaacb33be4ca985d87fe1e792335801
+http://fhaflite.000webhostapp.com//faucet.php?address=DDxhW1ru2xoL4kpfCTgUHuSa4hbP11gD5u&currency=DOGE&key=3c8e9688f56ed8cd1e31b8953cc998b2
+http://auto.japakar.com/faucet.php?address=DDxhW1ru2xoL4kpfCTgUHuSa4hbP11gD5u&currency=DOGE&miner=on&key=e1d6431022808df6a8e7702cfea64a3f
+http://auto.japakar.com/faucet.php?address=D7x5VusdyRXDF3VtvUiWExPJNKRvD4J47z&currency=DOGE&miner=on&key=2d5110a0a518e3c589966d9d8ee109e8
+
+
+open anwritter
+copy the url of faucet
+example is like this
+http://auto.japakar.com/faucet.php?address=D7x5VusdyRXDF3VtvUiWExPJNKRvD4J47z&currency=DOGE&miner=on&key=2d5110a0a518e3c589966d9d8ee109e8
+Save it as 
+Allkey.txt in the folder Coins
+
+finally run the two remaining sripts
+
+php bug.php
+lanjut mas bro
+
+
+ enjoy!
